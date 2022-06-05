@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeferWS
 - 📫 Contact:
-       IG: yefer.ws 
-       LinkedIn: yeferson-albarracin
+-      IG: yefer.ws
+-      LinkedIn: yeferson-albarracin
    
 
 <!---
